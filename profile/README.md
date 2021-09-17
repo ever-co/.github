@@ -1,6 +1,6 @@
 # Ever® - Open Platform for On-Demand and Sharing Economies.
 
-![Our Products](../assets/images/ever_products.png)
+![Our Products](https://github.com/ever-co/.github/raw/develop/assets/images/ever_products.png)
 
 ## Our products and services
 
