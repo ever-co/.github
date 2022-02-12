@@ -14,3 +14,7 @@
 - [Ever® OpenSaaS™](https://github.com/ever-co/ever-opensaas) -  Open-Source solution for creating, managing, and deploying full-featured SaaS offerings. See more - https://eversaas.co.
 - [Ever® IQ™](https://everiq.co) - On-Demand Talent Network for your business. See more - https://everiq.co
 - [Ever® Tech™](https://ever.tech) - Build custom software or customize our existed platforms for your business. See more - https://ever.tech
+
+## Jobs
+
+We are hiring. See more at https://github.com/ever-co/jobs
