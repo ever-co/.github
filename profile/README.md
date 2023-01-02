@@ -2,9 +2,10 @@
 
 ![Our Products](https://github.com/ever-co/.github/raw/develop/assets/images/ever_products.png)
 
-## Corporate website
+## Main
 
-- [https://ever.co](https://ever.co) - Our products & services overview
+- [https://ever.co](https://ever.co) - Overview of our products & services.
+- [https://everco.notion.site](https://everco.notion.site) - Notion pages.
 
 ## Products and services
 
