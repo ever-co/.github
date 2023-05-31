@@ -1,5 +1,9 @@
 # Ever® - Open Platform for On-Demand and Sharing Economies.
 
+<a href="https://github.com/ever-co"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ever-co?style=social"></a>
+<a href="https://www.linkedin.com/company/everhq"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&style=social" alt="linkedin community"></a>
+<a href="https://twitter.com/everplatform"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/everplatform?style=social"></a>
+
 ![Our Products](https://github.com/ever-co/.github/raw/develop/assets/images/ever_products.png)
 
 ## Main
