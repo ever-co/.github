@@ -13,36 +13,61 @@
 
 ## Products
 
-- [Ever® Demand™](https://github.com/ever-co/ever-demand)  
-Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.  
-See official website: <https://everdemand.co>.  
-Repo: <https://github.com/ever-co/ever-demand>.
+### [Ever® Gauzy™](https://github.com/ever-co/ever-gauzy)  
 
-- [Ever® Gauzy™](https://github.com/ever-co/ever-gauzy)  
-Open-Source Business Management Platform (ERP/CRM/HRM).  
-See official website: <https://gauzy.co>.  
-Demo available at <https://demo.gauzy.co>.  
-Repo: <https://github.com/ever-co/ever-gauzy>.
+Open Business Management Platform (ERP/CRM/HRM).  
 
-- [Ever® Gauzy Teams™](https://github.com/ever-co/ever-gauzy-teams)  
+- Official website: <https://gauzy.co>.  
+- SaaS: <https://app.gauzy.co> (FREE to use for now).  
+- Demo: <https://demo.gauzy.co>.  
+- Code: <https://github.com/ever-co/ever-gauzy>.
+
+### [Ever® Gauzy Teams™](https://github.com/ever-co/ever-gauzy-teams)  
+
 Open Work and Project Management Platform.  
-Available at: <https://app.gauzy.team>.  
-Repo: <https://github.com/ever-co/ever-gauzy-teams>.
 
-- [Ever® Traduora™](https://github.com/ever-co/ever-traduora)  
-Open-Source Translation Management Platform.  
-See more: <https://evertraduora.co>.  
-Repo: <https://github.com/ever-co/ever-traduora>.
+- SaaS: <https://app.gauzy.team> (WIP, FREE to use for now).  
+- Code: <https://github.com/ever-co/ever-gauzy-teams>.
 
-- [Ever® OpenSaaS™](https://github.com/ever-co/ever-opensaas)  
-Open-Source solution for creating, managing, and deploying full-featured SaaS offerings.  
-See more: <https://eversaas.co>.  
-Repo: <https://github.com/ever-co/ever-opensaas>.
+### [Ever® Gauzy AI™](https://github.com/ever-co/ever-gauzy-ai)  
+
+Open AI Platform (Stealth).  
+
+- Official website: <https://gauzy.ai>. (WIP, Stealth).   
+- Code: <https://github.com/ever-co/ever-gauzy-ai> (WIP, Stealth).  
+
+### [Ever® Demand™](https://github.com/ever-co/ever-demand)  
+
+Open Commerce Platform for On-Demand Economy and Digital Marketplaces.  
+
+- Official website: <https://everdemand.co>.  
+- Code: <https://github.com/ever-co/ever-demand>.
+
+### [Ever® Traduora™](https://github.com/ever-co/ever-traduora)  
+
+Open Translation Management Platform.  
+
+- Official website: <https://evertraduora.co>.  
+- Code: <https://github.com/ever-co/ever-traduora>.
+
+### [Ever® OpenSaaS™](https://github.com/ever-co/ever-opensaas)  
+
+Open solution for creating, managing, and deploying full-featured SaaS offerings.  
+
+- Official website: <https://eversaas.co> (WIP).  
+- Code: <https://github.com/ever-co/ever-opensaas> (WIP).
 
 ## Services
 
-- [Ever® IQ™](https://everiq.co) - On-Demand Talent Network for your business. See more - <https://everiq.co>.
-- [Ever® Tech™](https://ever.tech) - Build custom software or customize our existed platforms for your business. See more - <https://ever.tech>.
+### [Ever® Tech™](https://ever.tech)
+
+Build custom software or customize our existed platforms for your business.  
+Official website: <https://ever.tech>.
+
+### [Ever® IQ™](https://everiq.co) 
+
+On-Demand Talent Network for your business.  
+Official website: <https://everiq.co> (WIP).
 
 ## Jobs
 
