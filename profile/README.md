@@ -22,12 +22,12 @@ Open Business Management Platform (ERP/CRM/HRM).
 - Demo: <https://demo.gauzy.co>.  
 - Code: <https://github.com/ever-co/ever-gauzy>.
 
-### [Ever® Gauzy Teams™](https://github.com/ever-co/ever-gauzy-teams)  
+### [Ever® Teams™](https://github.com/ever-co/ever-teams)  
 
 Open Work and Project Management Platform.  
 
-- SaaS: <https://app.gauzy.team> (WIP, FREE to use for now).  
-- Code: <https://github.com/ever-co/ever-gauzy-teams>.
+- SaaS: <https://app.ever.team> (WIP, FREE to use for now).  
+- Code: <https://github.com/ever-co/ever-teams>.
 
 ### [Ever® Gauzy AI™](https://github.com/ever-co/ever-gauzy-ai)  
 
@@ -47,7 +47,7 @@ Open Commerce Platform for On-Demand Economy and Digital Marketplaces.
 
 Open Translation Management Platform.  
 
-- Official website: <https://evertraduora.co>.  
+- Official website: <https://traduora.co>.  
 - Code: <https://github.com/ever-co/ever-traduora>.
 
 ### [Ever® OpenSaaS™](https://github.com/ever-co/ever-opensaas)  
@@ -61,7 +61,7 @@ Open solution for creating, managing, and deploying full-featured SaaS offerings
 
 ### [Ever® Tech™](https://ever.tech)
 
-Build custom software or customize our existed platforms for your business.  
+Build custom software / customize our existing platforms for your business.  
 Official website: <https://ever.tech>.
 
 ### [Ever® IQ™](https://everiq.co) 
@@ -71,4 +71,4 @@ Official website: <https://everiq.co> (WIP).
 
 ## Jobs
 
-We are hiring. See more at https://github.com/ever-co/jobs & send CV to <jobs@ever.tech>.
+We are hiring. See more at https://github.com/ever-co/jobs & send your CV to <jobs@ever.tech>.
