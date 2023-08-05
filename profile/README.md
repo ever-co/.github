@@ -31,7 +31,7 @@ Open Work and Project Management Platform.
 
 ### [Ever® Gauzy AI™](https://github.com/ever-co/ever-gauzy-ai)  
 
-Open AI Platform (Stealth).  
+Open Business Automation Platform (Stealth).  
 
 - Official website: <https://gauzy.ai>. (WIP, Stealth).   
 - Code: <https://github.com/ever-co/ever-gauzy-ai> (WIP, Stealth).  
@@ -56,6 +56,18 @@ Open solution for creating, managing, and deploying full-featured SaaS offerings
 
 - Official website: <https://eversaas.co> (WIP).  
 - Code: <https://github.com/ever-co/ever-opensaas> (WIP).
+
+## [Ever® OS™](https://everos.co)
+
+- Official website: <https://everos.co> (WIP).  
+
+Stealth
+
+## [Ever® Metal™](https://ever.sh)
+
+Open Data Center Platform (Stealth)  
+
+- Official website <https://ever.sh> (WIP).
 
 ## Services
 
