@@ -81,6 +81,10 @@ Official website: <https://ever.tech>.
 On-Demand Talent Network for your business.  
 Official website: <https://everiq.co> (WIP).
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ever-co/ever-gauzy,ever-co/ever-demand,ever-co/ever-traduora,ever-co/ever-teams&type=Date)](https://star-history.com/#ever-co/ever-gauzy&ever-co/ever-demand&ever-co/ever-traduora&ever-co/ever-teams&Date)
+
 ## Jobs
 
 We are hiring. See more at https://github.com/ever-co/jobs & send your CV to <jobs@ever.tech>.
