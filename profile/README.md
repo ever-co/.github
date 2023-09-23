@@ -1,4 +1,4 @@
-# Ever® - Open Platform for Collaborative, On-Demand and Sharing Economies.
+# Ever® - Open Platform <br> for Collaborative, On-Demand and Sharing Economies.
 
 <a href="https://github.com/ever-co"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ever-co?style=social"></a>
 <a href="https://www.linkedin.com/company/everhq"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&style=social" alt="linkedin community"></a>
