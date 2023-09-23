@@ -1,4 +1,4 @@
-# Ever® - Open Platform for On-Demand and Sharing Economies.
+# Ever® - Open Platform for Collaborative, On-Demand and Sharing Economies.
 
 <a href="https://github.com/ever-co"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ever-co?style=social"></a>
 <a href="https://www.linkedin.com/company/everhq"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&style=social" alt="linkedin community"></a>
@@ -38,7 +38,7 @@ Open Business Automation Platform (Stealth).
 
 ### [Ever® Demand™](https://github.com/ever-co/ever-demand)  
 
-Open Commerce Platform for On-Demand Economy and Digital Marketplaces.  
+Open Commerce Platform for Collaborative, On-Demand and Sharing Economies.  
 
 - Official website: <https://everdemand.co>.  
 - Code: <https://github.com/ever-co/ever-demand>.
