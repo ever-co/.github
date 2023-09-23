@@ -83,7 +83,13 @@ Official website: <https://everiq.co> (WIP).
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ever-co/ever-gauzy,ever-co/ever-demand,ever-co/ever-traduora,ever-co/ever-teams&type=Date)](https://star-history.com/#ever-co/ever-gauzy&ever-co/ever-demand&ever-co/ever-traduora&ever-co/ever-teams&Date)
+<a href="https://star-history.com/#ever-co/ever-gauzy&ever-co/ever-demand&ever-co/ever-traduora&ever-co/ever-teams&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ever-co/ever-gauzy,ever-co/ever-demand,ever-co/ever-traduora,ever-co/ever-teams&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ever-co/ever-gauzy,ever-co/ever-demand,ever-co/ever-traduora,ever-co/ever-teams&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ever-co/ever-gauzy,ever-co/ever-demand,ever-co/ever-traduora,ever-co/ever-teams&type=Date" />
+  </picture>
+</a>
 
 ## Jobs
 
