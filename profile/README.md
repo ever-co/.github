@@ -81,6 +81,16 @@ Official website: <https://ever.tech>.
 On-Demand Talent Network for your business.  
 Official website: <https://everiq.co> (WIP).
 
+## Other 
+
+### [Ever API Starter Kit](https://github.com/ever-co/ever-api-starter-kit)
+
+NestJs based starter kit / boilerplate for Multi-Tenant APIs
+
+### [Awesome Time Tracking](https://github.com/ever-co/awesome-time-tracking)
+
+Time Tracking - Software, Methodologies and Practices
+
 ## ⭐ Star History
 
 <a href="https://star-history.com/#ever-co/ever-gauzy&ever-co/ever-demand&ever-co/ever-traduora&ever-co/ever-teams&Date">
