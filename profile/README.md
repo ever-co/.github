@@ -26,6 +26,7 @@ Open Business Management Platform (ERP/CRM/HRM).
 
 Open Work and Project Management Platform.  
 
+- Official website: <https://ever.team> (WIP).  
 - SaaS: <https://app.ever.team> (WIP, FREE to use for now).  
 - Code: <https://github.com/ever-co/ever-teams>.
 
@@ -41,7 +42,7 @@ Open Business Automation Platform (Stealth).
 Open Commerce Platform for Collaborative, On-Demand and Sharing Economies.  
 
 - Official website: <https://everdemand.co>.  
-- Code: <https://github.com/ever-co/ever-demand>.
+- Code: <https://github.com/ever-co/ever-demand>.  
 
 ### [Ever® Traduora™](https://github.com/ever-co/ever-traduora)  
 
@@ -83,13 +84,21 @@ Official website: <https://everiq.co> (WIP).
 
 ## Other 
 
+### [Awesome Boilerplates & Starter Kits](https://github.com/ever-co/awesome-starters)
+
+Awesome Boilerplates & Starter Kits for Web Apps.
+
 ### [Ever API Starter Kit](https://github.com/ever-co/ever-api-starter-kit)
 
-NestJs based starter kit / boilerplate for Multi-Tenant APIs
+NestJs-based Starter Kit / Boilerplate for Multi-Tenant APIs.
+
+### [Ever Web App Starter Kit](https://github.com/ever-co/ever-webapp-starter-kit)
+
+NextJs-based Starter Kit / Boilerplate for SaaS / Multi-Tenant Web Apps.
 
 ### [Awesome Time Tracking](https://github.com/ever-co/awesome-time-tracking)
 
-Time Tracking - Software, Methodologies and Practices
+Time Tracking - Software, Methodologies and Practices.
 
 ## ⭐ Star History
 
