@@ -13,7 +13,7 @@
 
 ### [Ever® Gauzy™](https://github.com/ever-co/ever-gauzy)  
 
-Open Business Management Platform (ERP/CRM/HRM).  
+Open Business Management Platform (ERP/CRM/HRM/ATS/PM).  
 
 - Official website: <https://gauzy.co>.  
 - SaaS: <https://app.gauzy.co> (FREE to use for now).  
