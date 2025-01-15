@@ -28,6 +28,14 @@ Open Work and Project Management Platform.
 - SaaS: <https://app.ever.team> (WIP, FREE to use for now).  
 - Code: <https://github.com/ever-co/ever-teams>.
 
+### [Ever® Rec™](https://github.com/ever-co/ever-rec)  
+
+Open Screen Capture, Screen Recording, Images & Video Sharing Platform.
+
+- Official website: <https://rec.so> (WIP).  
+- SaaS: <https://app.rec.so> (WIP).  
+- Code: <https://github.com/ever-co/ever-rec>.
+
 ### [Ever® Gauzy AI™](https://github.com/ever-co/ever-gauzy-ai)  
 
 Open Business Automation Platform (Stealth).  
