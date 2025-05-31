@@ -15,54 +15,64 @@
 
 Open Business Management Platform (ERP/CRM/HRM/ATS/PM).  
 
-- Official website: <https://gauzy.co>.  
-- SaaS: <https://app.gauzy.co> (FREE to use for now).  
-- Demo: <https://demo.gauzy.co>.  
-- Code: <https://github.com/ever-co/ever-gauzy>.
+- Official website: <https://gauzy.co>
+- SaaS: <https://app.gauzy.co>
+- Demo: <https://demo.gauzy.co>
+- Code: <https://github.com/ever-co/ever-gauzy> (AGPL v3)
 
 ### [Ever® Teams™](https://github.com/ever-co/ever-teams)  
 
 Open Work and Project Management Platform.  
 
-- Official website: <https://ever.team> (WIP).  
-- SaaS: <https://app.ever.team> (WIP, FREE to use for now).  
-- Code: <https://github.com/ever-co/ever-teams>.
+- Official website: <https://ever.team> (WIP)
+- SaaS: <https://app.ever.team> (WIP)
+- Code: <https://github.com/ever-co/ever-teams> (AGPL v3)
 
 ### [Ever® Rec™](https://github.com/ever-co/ever-rec)  
 
 Open Screen Capture, Screen Recording, Images & Video Sharing Platform.
 
-- Official website: <https://rec.so> (WIP).  
-- SaaS: <https://app.rec.so> (WIP).  
-- Code: <https://github.com/ever-co/ever-rec>.
+- Official website: <https://rec.so> (WIP)
+- SaaS: <https://app.rec.so> (WIP)
+- Code: <https://github.com/ever-co/ever-rec> (AGPL v3)
+
+### [Ever® Works™](https://github.com/ever-works)  
+
+Open Directory Builder Platform.
+
+- Official website: <https://ever.works> (WIP)
+- Demo: <https://demo.ever.works>.  
+- SaaS: <https://app.ever.works> (WIP)
+- Directory Template Code: <https://github.com/ever-co/ever-works-website-template> (AGPL v3)
+- Platform Code: <https://github.com/ever-co/ever-works> (Commercial)
 
 ### [Ever® Gauzy AI™](https://github.com/ever-co/ever-gauzy-ai)  
 
 Open Business Automation Platform (Stealth).  
 
-- Official website: <https://gauzy.ai>. (WIP, Stealth).   
-- Code: <https://github.com/ever-co/ever-gauzy-ai> (WIP, Stealth).  
+- Official website: <https://gauzy.ai>. (WIP, Stealth) 
+- Code: <https://github.com/ever-co/ever-gauzy-ai> (WIP, Stealth)
 
 ### [Ever® Demand™](https://github.com/ever-co/ever-demand)  
 
 Open Commerce Platform for Collaborative, On-Demand and Sharing Economies.  
 
-- Official website: <https://everdemand.co>.  
-- Code: <https://github.com/ever-co/ever-demand>.  
+- Official website: <https://everdemand.co>
+- Code: <https://github.com/ever-co/ever-demand> (AGPL v3)
 
 ### [Ever® Traduora™](https://github.com/ever-co/ever-traduora)  
 
 Open Translation Management Platform.  
 
-- Official website: <https://traduora.co>.  
-- Code: <https://github.com/ever-co/ever-traduora>.
+- Official website: <https://traduora.co>
+- Code: <https://github.com/ever-co/ever-traduora> (AGPL v3)
 
 ### [Ever® OpenSaaS™](https://github.com/ever-co/ever-opensaas)  
 
 Open solution for creating, managing, and deploying full-featured SaaS offerings.  
 
-- Official website: <https://eversaas.co> (WIP).  
-- Code: <https://github.com/ever-co/ever-opensaas> (WIP).
+- Official website: <https://eversaas.co> (WIP)
+- Code: <https://github.com/ever-co/ever-opensaas> (WIP, AGPL v3)
 
 ## [Ever® OS™](https://everos.co)
 
@@ -80,7 +90,7 @@ Open Data Center Platform (Stealth)
 
 ### [Ever® Tech™](https://ever.tech)
 
-Build custom software / customize our existing platforms for your business.  
+Build custom software/customize our existing platforms for your business.  
 Official website: <https://ever.tech>.
 
 ### [Ever® IQ™](https://everiq.co) 
@@ -90,7 +100,7 @@ Official website: <https://everiq.co> (WIP).
 
 ## Other 
 
-### [Awesome Boilerplates & Starter Kits](https://github.com/ever-co/awesome-starters)
+### [Awesome Boilerplates & Starter Kits](https://github.com/ever-works/awesome-starters)
 
 Awesome Boilerplates & Starter Kits for Web Apps.
 
@@ -102,7 +112,7 @@ NestJs-based Starter Kit / Boilerplate for Multi-Tenant APIs.
 
 NextJs-based Starter Kit / Boilerplate for SaaS / Multi-Tenant Web Apps.
 
-### [Awesome Time Tracking](https://github.com/ever-co/awesome-time-tracking)
+### [Awesome Time Tracking](https://github.com/ever-works/awesome-time-tracking)
 
 Time Tracking - Software, Methodologies and Practices.
 
