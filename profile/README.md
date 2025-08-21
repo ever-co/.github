@@ -34,7 +34,8 @@ Open Screen Capture, Screen Recording, Images & Video Sharing Platform.
 
 - Official website: <https://rec.so> (WIP)
 - SaaS: <https://app.rec.so> (WIP)
-- Code: <https://github.com/ever-co/ever-rec> (AGPL v3)
+- Mono-repo: <https://github.com/ever-co/ever-rec> (AGPL v3)
+- Desktop App: <https://github.com/ever-co/ever-rec-desktop> (AGPL v3)
 
 ### [Ever® Works™](https://github.com/ever-works)  
 
