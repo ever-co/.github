@@ -20,6 +20,13 @@ Open Business Management Platform (ERP/CRM/HRM/ATS/PM).
 - Demo: <https://demo.gauzy.co>
 - Code: <https://github.com/ever-co/ever-gauzy> (AGPL v3)
 
+### [Ever® Gauzy AI™](https://github.com/ever-co/ever-gauzy-ai)  
+
+Open Business Automation Platform (Stealth).  
+
+- Official website: <https://gauzy.ai>. (WIP, Stealth) 
+- Code: <https://github.com/ever-co/ever-gauzy-ai> (WIP, Stealth)
+
 ### [Ever® Teams™](https://github.com/ever-co/ever-teams)  
 
 Open Work and Project Management Platform.  
@@ -44,15 +51,8 @@ Open Directory Builder Platform.
 - Official website: <https://ever.works> (WIP)
 - Demo: <https://demo.ever.works>.  
 - SaaS: <https://app.ever.works> (WIP)
-- Directory Template Code: <https://github.com/ever-co/ever-works-website-template> (AGPL v3)
-- Platform Code: <https://github.com/ever-co/ever-works> (Commercial)
-
-### [Ever® Gauzy AI™](https://github.com/ever-co/ever-gauzy-ai)  
-
-Open Business Automation Platform (Stealth).  
-
-- Official website: <https://gauzy.ai>. (WIP, Stealth) 
-- Code: <https://github.com/ever-co/ever-gauzy-ai> (WIP, Stealth)
+- Directory Template Code: <https://github.com/ever-works/ever-works-website-template> (AGPL v3)
+- Platform Code: <https://github.com/ever-works/ever-works> (Commercial, not OSS)
 
 ### [Ever® Demand™](https://github.com/ever-co/ever-demand)  
 
@@ -86,6 +86,13 @@ Stealth
 Open Data Center Platform (Stealth)  
 
 - Official website <https://ever.sh> (WIP).
+
+### [Ever® Jobs™](https://github.com/ever-co/ever-jobs)  
+
+Agregating jobs/gigs postings from multiple sources.  
+
+- Official website: N/A
+- Code: <https://github.com/ever-co/ever-jobs>
 
 ## Services
 
