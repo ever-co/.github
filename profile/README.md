@@ -31,10 +31,10 @@ Open Business Management Platform (ERP/CRM/HRM/ATS/PM).
 
 ### [Ever® Gauzy AI™](https://github.com/ever-co/ever-gauzy-ai)  
 
-Open Business Automation Platform (Stealth).  
+Ever® Gauzy AI™ — Open Business Services and Intelligence Platform: APIs and services that gather, analyze and act on business data for the Ever Gauzy ecosystem.
 
-- Official website: <https://gauzy.ai>. (WIP, Stealth) 
-- Code: <https://github.com/ever-co/ever-gauzy-ai> (WIP, Stealth)
+- Official website: <https://gauzy.ai>. (WIP) 
+- Code: <https://github.com/ever-co/ever-gauzy-ai> (AGPL v3)
 
 ### [Ever® Teams™](https://github.com/ever-co/ever-teams)  
 
