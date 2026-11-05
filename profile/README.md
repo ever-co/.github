@@ -22,7 +22,7 @@ The Workshop for AI. An open agentic runtime that autonomously researches, ships
 
 ### [Ever® Gauzy™](https://github.com/ever-co/ever-gauzy)  
 
-Open Business Management Platform (ERP/CRM/HRM/ATS/PM).  
+Open Business Management Platform (ERP/CRM/HRM/ATS/PM).
 
 - Official website: <https://gauzy.co>
 - SaaS: <https://app.gauzy.co>
@@ -38,7 +38,7 @@ Ever® Gauzy AI™ — Open Business Services and Intelligence Platform: APIs an
 
 ### [Ever® Teams™](https://github.com/ever-co/ever-teams)  
 
-Open Work and Project Management Platform.  
+The Workplace for Humans. Open Work & Productivity Platform.  
 
 - Official website: <https://ever.team> (WIP)
 - SaaS: <https://app.ever.team> (WIP)
