@@ -11,6 +11,15 @@
 
 ## Products
 
+### [Ever® Works™](https://github.com/ever-works)  
+
+The Workshop for AI. An open agentic runtime that autonomously researches, ships, and maintains entire businesses, 24/7
+
+- Official website: <https://ever.works>
+- SaaS: <https://app.ever.works>
+- Demo: <https://demo.ever.works>
+- Code: <https://github.com/ever-co/ever-works> (AGPL v3)
+
 ### [Ever® Gauzy™](https://github.com/ever-co/ever-gauzy)  
 
 Open Business Management Platform (ERP/CRM/HRM/ATS/PM).  
@@ -44,16 +53,6 @@ Open Screen Capture, Screen Recording, Images & Video Sharing Platform.
 - Mono-repo: <https://github.com/ever-co/ever-rec> (AGPL v3)
 - Desktop App: <https://github.com/ever-co/ever-rec-desktop> (AGPL v3)
 
-### [Ever® Works™](https://github.com/ever-works)  
-
-Open Directory Builder Platform.
-
-- Official website: <https://ever.works> (WIP)
-- Demo: <https://demo.ever.works>.  
-- SaaS: <https://app.ever.works> (WIP)
-- Directory Template Code: <https://github.com/ever-works/ever-works-website-template> (AGPL v3)
-- Platform Code: <https://github.com/ever-works/ever-works> (Commercial, not OSS)
-
 ### [Ever® Demand™](https://github.com/ever-co/ever-demand)  
 
 Open Commerce Platform for Collaborative, On-Demand and Sharing Economies.  
@@ -81,18 +80,18 @@ Open solution for creating, managing, and deploying full-featured SaaS offerings
 
 Stealth
 
-## [Ever® Metal™](https://ever.sh)
+## [Ever® Selfhost™](https://ever.sh)
 
-Open Data Center Platform (Stealth)  
+Ever Self-hosting
 
-- Official website <https://ever.sh> (WIP).
+- Official website <https://ever.sh>.
 
-### [Ever® Jobs™](https://github.com/ever-co/ever-jobs)  
+### [Ever® Jobs™](https://github.com/ever-jobs/ever-jobs)  
 
 Agregating jobs/gigs postings from multiple sources.  
 
 - Official website: N/A
-- Code: <https://github.com/ever-co/ever-jobs>
+- Code: <https://github.com/ever-jobs/ever-jobs>
 
 ## Services
 
@@ -100,11 +99,6 @@ Agregating jobs/gigs postings from multiple sources.
 
 Build custom software/customize our existing platforms for your business.  
 Official website: <https://ever.tech>.
-
-### [Ever® IQ™](https://everiq.co) 
-
-On-Demand Talent Network for your business.  
-Official website: <https://everiq.co> (WIP).
 
 ## Other 
 
